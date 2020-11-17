@@ -1,13 +1,5 @@
 # Git-study
 
-- link : [CLI명령어][clilink]
-  
-  [clilink]: .lecture/cli.md "gocli"  
+- [CLI명령어](.lecture/cli.md)
 
-
-- [GIT명령어][lecture/git.md]  
-
-
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
+- [GIT명령어](lecture/git.md)
