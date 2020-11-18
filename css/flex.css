@@ -13,7 +13,7 @@ background-position: 50% 50%;
 }
 .box {
     width: 100vw;
-    margin-top bottom: 1em;
+    margin: 1em 0 1em 0;
     font-size: 6em;
     text-align: center;
     background-color: hsla(110, 50%, 50%, 0.5);
@@ -25,4 +25,4 @@ background-position: 50% 50%;
     font-size: 2em;
     color: white;
     font-weight: bold;
-}
+}*/
