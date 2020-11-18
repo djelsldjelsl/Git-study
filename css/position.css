@@ -50,3 +50,9 @@ a{
     right:20px;
     bottom: 20px;
 }
+.p{
+    overflow: auto;
+    background-color: #fff;
+    height: 300px;
+    width: 500px;
+}

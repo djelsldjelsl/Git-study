@@ -1,0 +1,56 @@
+body{
+    margin:0
+}
+a {
+    color: inherit;
+}
+.container{
+    
+    width:80%;
+    /*border: 10px yellow solid;
+    padding:0 20px;*/
+    margin:0 auto;
+}
+.header{
+    background-color: #c68400;
+    width:100%;
+    height:20vh;
+}
+.wrapper{
+    width: 100%;
+    background-color:blue;
+}
+.wrapper::after{
+    display: block;
+    clear: both;
+    content:"";
+}
+.navigation{
+    float: right;
+    width:25%;
+    background-color:#ff9100;
+    height:70vh;
+}
+.content{
+    float: left;
+    width: 75%;
+    background-color: gray;
+}
+.sidebar{
+    float: right;
+    width:30%;
+    background-color:#ffe54c;
+    height:70vh;
+}
+.main{
+    float: right;
+    width:70%;
+    background-color: #ffb300;
+    height:70vh;
+}
+
+.footer{
+    width:100%;
+    background-color: lightgray;
+    height:15vh;
+}
